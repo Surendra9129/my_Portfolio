@@ -1,3 +1,13 @@
+# My Portfolio
+Hello there this is my portfolio app which I have build by my own usin react 
+
+I hve use styled component for styling and also Material UI to provide awesome effect.
+
+I have deployed this on vercel
+
+portfolio link [surendra-portfolio.vercel.app]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
